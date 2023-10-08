@@ -538,7 +538,6 @@ public class FrmDataSimple extends javax.swing.JFrame {
         lblMsTEjecucion.setText(CADENA_VACIA);
     }
     private void BtnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BtnLimpiarActionPerformed
-        // TODO add your handling code here:
        ClearAll();
     }//GEN-LAST:event_BtnLimpiarActionPerformed
 

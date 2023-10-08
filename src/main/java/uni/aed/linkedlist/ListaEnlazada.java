@@ -25,7 +25,7 @@ public class ListaEnlazada {
             return;
         //si el elemento a eliminar es el primer nodo
         if(head.data==data){
-            head=head.next;
+            head=head.next;     
             return;
         }
         //si el nodo a eliminar no es el primer nodo
